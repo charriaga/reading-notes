@@ -30,3 +30,7 @@ This mindset can be difficult to maintain in today's society, especially when co
 - **No Pain, No Gain;** learning takes effort and tenacity.
 - **Always Return to Obstacles;** if something feels overwhelming and un-do-able, walk away and take a break. But always return to give it another go or try a different angle.
 - **Mistakes are Happy Accidents;** turn failure and mistakes into happy little trees by viewing them as learning experiences.
+
+## Table of Contents
+
+(
