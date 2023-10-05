@@ -9,13 +9,13 @@ There is a root directory, and inside the root directory are folders that organi
 
 ### Directory Commands
 
-- `pwd`: "Print Working Directory". typing `pwd` prints your current location within the computer directory.
-- `ls`: "List". typing `ls` will list the files and folders within your current location in the computer directory. *Example: typing `ls` in **Downloads** will list all files and folders saved in **Downloads***
+- `pwd`: "Print Working Directory". Typing `pwd` prints your current location within the computer directory.
+- `ls`: "List". Typing `ls` will list the files and folders within your current location in the computer directory. *Example: typing `ls` in **Downloads** will list all files and folders saved in **Downloads***
 
   - `-l` is an argument which can be added to `ls` to show more information on the files and folders listed, such as the permissions and author of a file.
 - `cd`: "Change "Directory". This allows you to change locations in you computer directory. Typing only 'cd' without an argument will bring you to the root directory. A file or folder must be typed after it to change to a different location.
     - `..` is an argument that allows you to go to the directory above you in the hierarchy. adding more '.'s to it will make you go more steps backwards.
+- `mkdir`: "Make Directory". Typing `mkdir` will allow you to create a new folder in your location within the computer's directory. The name of the folder must be typed afterwards as an argument.
+- `touch`: "Touch".  This allows you to create a new file. The name of the file, with its intended extension, must be typed afterwards. You may also note the file's location by adding the desired directory before the name.
 
-## Files
-Everything is a file. Every interaction with a computer when dealing with code will ultimately be interactions with a bunch of files.
-
+### Commands in action
