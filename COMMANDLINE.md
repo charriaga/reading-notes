@@ -32,8 +32,10 @@ There is a root directory, and inside the root directory are folders that organi
 
   ![touch in action](touch.png)
 
-- In this image, I start out located in the "/Users/charlie/projects/new-project" directory. You can tell this because of the "new-project" listed in blue before the prompt. 
+- In this image, I start out located in the "/Users/charlie/projects/new-project" directory. You can tell this because of the "new-project" listed in blue before the prompt. Entering the command `cd` with the `..` argument moved me to the "/Users/charlie/projects" directory, one directory up from "new-projects". Typing `cd ..` again led me to the "/Users/charlie" directory.
 
   ![.. in action](cd...png)
+
+- In this last example, by typing the exact directory I wanted to see as an argument to the `ls` command, it listed all the files in the desired directory without me having to be located within it.
 
   ![ls in action](ls-new-project.png)
