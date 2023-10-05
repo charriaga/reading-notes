@@ -28,6 +28,12 @@ There is a root directory, and inside the root directory are folders that organi
   
   ![mkdir in action](mkdir.png)
 
-- While in the "/Users/charlie/projects/new-project" directory, the command `touch 
+- While in the "/Users/charlie/projects/new-project" directory, the command `touch new-file.md` is given. Using `ls`, it is shown that the command created a new file called "new-file.md" within the "new-project" directory.
 
   ![touch in action](touch.png)
+
+- In this image, I start out located in the "/Users/charlie/projects/new-project" directory. You can tell this because of the "new-project" listed in blue before the prompt. 
+
+  ![.. in action](cd...png)
+
+  ![ls in action](ls-new-project.png)
