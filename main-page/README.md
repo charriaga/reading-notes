@@ -1,8 +1,11 @@
 # Charlie's Notebook
+
 *Personal reading notes for code fellows courses.*
 
 ## An Introduction
+
 ### Who Am I?
+
 ![A picture of Charlie Arriaga](Screenshot_20231002_142419_Gallery.jpg)
 
 My name is Charlie Arriaga and I am an artist and aspiring web developer. I like caramel lattes, the color purple, and Dracula by Bram Stoker. 
@@ -14,6 +17,7 @@ My name is Charlie Arriaga and I am an artist and aspiring web developer. I like
 This web page contains all my notes on the courses I take at Code Fellows. Organized throughout will be an organized wiki of what I've learned.
 
 ## Growth Mindset
+
 **It is important to maintain a growth mindset throughout my learning journey.**
 
 ### Definition

@@ -1,13 +1,21 @@
 # Markdown
+
 ## Definition
+
 Markdown is one of the world's most widely used markup languages. It allows the use of visual edits of sentences and words without the use of a WYSIWYG editor.
+
 ### Usefulness
+
 Markdown is used as a means of portraying information in a quick, easy, and visually digestable way. It is platform-independent - therefore, markdown files can be transferred easily between applications, editors, and websites. And it is able to transcend the life expectancy of software programs that may use or host markdown files, making it future-proof.
+
 ## Syntax
+
 ### Headings
+
 There are 6 levels of heading in Markdown. Adding one `#` with a space in front of it before the desired heading text creates the largest heading, and adding `######` with a space in front of it before the desired heading text creates the smallest heading.
 
 **Examples:**
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -16,6 +24,7 @@ There are 6 levels of heading in Markdown. Adding one `#` with a space in front 
 ###### Heading 6
 
 ### Bold
+
 To make text **Bold**, ecapsulate the desired text in `**` on each side.
 
 **Example:**
@@ -23,6 +32,7 @@ To make text **Bold**, ecapsulate the desired text in `**` on each side.
 `**Bold Text**` = **Bold Text**
 
 ### Italicized
+
 To make text *Italicized*, Ecapsulate it in either `_` or `*` on either side.
 
 **Example:**
@@ -43,12 +53,16 @@ There are three ways to make an unordered list, either by adding a `-`, `*`, or 
 
 **Example:**
 
-```
+``` MD 040
 - fish
 * bread
 + Chips
 ```
+
 =
+
 - fish
+
 * bread
+
 + chips

@@ -2,7 +2,7 @@
 
 A **text editor** is exactly what it says \- a place to write and edit texts. Many text editors are specifically made to write and edit code, specifically. These are the text editors this page is talking about.
 
-There are many different text editors in existence, some free and some not. While there isn't a single best text editor out there, there are certain features one should look for when choosinng which text editor to use.
+There are many different text editors in existence, some free and some not. While there isn't a single best text editor out there, there are certain features one should look for when choosinng which text editor to use:
 
 ### Code Completion 
 
