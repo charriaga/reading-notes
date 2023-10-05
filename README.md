@@ -35,3 +35,4 @@ This mindset can be difficult to maintain in today's society, especially when co
 
 - [Markdown](READMETWO.md)
 - [Command Line Basics](COMMANDLINE.md)
+- [Text Editors](TEXTEDITORS.md)
