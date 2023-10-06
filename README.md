@@ -18,6 +18,6 @@ This web page contains all my notes on the courses I take at Code Fellows. Throu
 
 ## Table of Contents
 
-- [Markdown](READMETWO.md)
-- [Command Line Basics](COMMANDLINE.md)
-- [Text Editors](TEXTEDITORS.md)
+- [Markdown](code-102/markdown/READMETWO.md)
+- [Command Line Basics](code-102/command-lines/COMMANDLINE.md)
+- [Text Editors](code-102/text-editors/TEXTEDITORS.md)
