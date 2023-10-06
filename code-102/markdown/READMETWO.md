@@ -53,7 +53,7 @@ There are three ways to make an unordered list, either by adding a `-`, `*`, or 
 
 **Example:**
 
-``` MD 040
+```
 - fish
 * bread
 + Chips
