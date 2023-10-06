@@ -26,20 +26,20 @@ There is a root directory, and inside the root directory are folders that organi
 
 - In this image the first command given is `pwd`. It prints out the location \("/Users/charlie"). The secound command given is `cd projects`, nothing is printed but by then typing the command `pwd` it shows that it changed my location to "/Users/charlie/projects/"
 
-  ![cd prompt in action](/code-102/command-lines/cd.png)
+  ![cd prompt in action](/cd...png)
 
 - Initially, `ls` shows that the only folder in the "projects" directory is "courses". But the next command, `mkdir new-project` creates another folder called "new-project". This is shown when the second `ls` command elicits a new list that includs both "courses" and "new-project".
   
-  ![mkdir in action](/code-102/command-lines/mkdir.png)
+  ![mkdir in action](/mkdir.png)
 
 - While in the "/Users/charlie/projects/new-project" directory, the command `touch new-file.md` is given. Using `ls`, it is shown that the command created a new file called "new-file.md" within the "new-project" directory.
 
-  ![touch in action](/code-102/command-lines/touch.png)
+  ![touch in action](/touch.png)
 
 - In this image, I start out located in the "/Users/charlie/projects/new-project" directory. You can tell this because of the "new-project" listed in blue before the prompt. Entering the command `cd` with the `..` argument moved me to the "/Users/charlie/projects" directory, one directory up from "new-projects". Typing `cd ..` again led me to the "/Users/charlie" directory.
 
-  ![.. in action](/code-102/command-lines/cd...png)
+  ![.. in action](/cd...png)
 
 - In this last example, by typing the exact directory I wanted to see as an argument to the `ls` command, it listed all the files in the desired directory without me having to be located within it.
 
-  ![ls in action](/code-102/command-lines/ls-new-project.png)
+  ![ls in action](/ls-new-project.png)
