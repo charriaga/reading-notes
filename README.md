@@ -24,7 +24,7 @@ This web page contains all my notes on the courses I take at Code Fellows. Throu
 - [Command Line Basics](code-102/command-lines/COMMANDLINE.md)
 - [Text Editors](code-102/text-editors/TEXTEDITORS.md)
 - [Git Basics](code-102/GITBASICS.md)
-- [Class 4](code-102/class-04.md)
+- [Html Basics](code-102/HTMLBASICS.md)
 - [Class 5](code-102/class-05.md)
 - [Class 6](code-102/class06.md)
 - [Class 7](code-102/class07.md)
