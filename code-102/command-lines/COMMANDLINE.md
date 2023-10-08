@@ -26,7 +26,7 @@ There is a root directory, and inside the root directory are folders that organi
 
 - In this image the first command given is `pwd`. It prints out the location \("/Users/charlie"). The secound command given is `cd projects`, nothing is printed but by then typing the command `pwd` it shows that it changed my location to "/Users/charlie/projects/"
 
-  ![cd prompt in action](/cd...png)
+  ![cd prompt in action](/cd.png)
 
 - Initially, `ls` shows that the only folder in the "projects" directory is "courses". But the next command, `mkdir new-project` creates another folder called "new-project". This is shown when the second `ls` command elicits a new list that includs both "courses" and "new-project".
   
