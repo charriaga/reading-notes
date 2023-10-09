@@ -12,17 +12,17 @@ The basic building block on HTML is an **element.** Elements are used to encapsu
 
 There are 3 main parts to an element's anatomy:
 
-- The **opening tag:** The name of the element wrapped in angle brackets. For example, `<p>` is the opening tage to the paragraph element.
+- The **opening tag:** The name of the element wrapped in angle brackets. For example, `<p>` is the opening tag to the paragraph element.
 
 - The **content:** The content of the element, or what you want to be on your website. It is placed between the opening and closing tags.
 
-- The **closing tag:** Similar to an opening tag, the closing tag shows where  the element ends. It has a forward slash and the name of the element wrapped in angle brackets. For example, `</p>` is the closing tag to the paragraph element.
+- The **closing tag:** Similar to an opening tag, the closing tag shows where the element ends. It has a forward slash and the name of the element wrapped in angle brackets. For example, `</p>` is the closing tag to the paragraph element.
 
 ### Attributes
 
-An attribute is extra information added to an element. It's placed in the opening tag after the element name and between the angle brackets. Many attributes have **values**, which add more information to the attribut itself. 
+An attribute is extra information added to an element. It's placed in the opening tag after the element name and between the angle brackets. Many attributes have **values**, which add more information to the attribut itself.
 
-Attributes with values are followed by an equals sign and then is wrapped in quotation marks. 
+Attributes with values are followed by an equals sign and then is wrapped in quotation marks.
 
 For example, in the case of `<p class="note">`, "class" is the attribute and "note" is the class.
 
