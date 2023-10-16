@@ -27,7 +27,7 @@ This web page contains all my notes on the courses I take at Code Fellows. Throu
 - [Html Basics](code-102/HTMLBASICS.md)
 - [CSS Basics](code-102/class-05.md)
 - [Javascript Basics](code-102/class06.md)
-- [Class 7](code-102/class07.md)
+- [Javascript Fuctions](code-102/class07.md)
 - [Class 8](code-102/class08.md)
 
 ### Code 201
