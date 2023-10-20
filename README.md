@@ -16,6 +16,24 @@ My name is Charlie Arriaga and I am an artist and aspiring web developer. I like
 
 This web page contains all my notes on the courses I take at Code Fellows. Throughout will be an organized wiki of what I've learned.
 
+## Code 102
+
+Code 102 conver the basics and serves as an introduction to software developement. 
+
+Topics covered are Markdown, the command line, Git, HTML, CSS, and JavaScript.
+
+## Code 201
+
+Code 201 serves as an intermediate course that delves deeper into front end development.
+
+## Code 301
+
+Code 301 is an advanced course that hones front end developement skills and introduces back end developement.
+
+## Code 401
+
+Code 401 allows specialization in one aspect or language in software developement.
+
 ## Table of Contents
 
 ### Code 102
@@ -47,3 +65,11 @@ This web page contains all my notes on the courses I take at Code Fellows. Throu
 - [Class 13](code-201/13.md)
 - [Class 14](code-201/14.md)
 - [Class 15](code-201/15.md)
+
+### Code 301
+
+Page not yet created
+
+### Code 401
+
+Page not yet created
