@@ -63,3 +63,9 @@ Code 301 is an advanced course that hones front end developement skills and intr
 ## Code 401
 
 Code 401 allows specialization in one aspect or language in software developement.
+
+## Prompt Engineering
+
+The utilization of prompts to create a desired output for LLMs.
+
+Learn more [here](code-201/prompt-engineering.md).
