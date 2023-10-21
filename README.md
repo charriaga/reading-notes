@@ -22,21 +22,7 @@ Code 102 conver the basics and serves as an introduction to software developemen
 
 Topics covered are Markdown, the command line, Git, HTML, CSS, and JavaScript.
 
-## Code 201
-
-Code 201 serves as an intermediate course that delves deeper into front end development.
-
-## Code 301
-
-Code 301 is an advanced course that hones front end developement skills and introduces back end developement.
-
-## Code 401
-
-Code 401 allows specialization in one aspect or language in software developement.
-
-## Table of Contents
-
-### Code 102
+### Table of Contents
 
 - [Markdown](code-102/markdown/READMETWO.md)
 - [Command Line Basics](code-102/command-lines/COMMANDLINE.md)
@@ -48,7 +34,11 @@ Code 401 allows specialization in one aspect or language in software developemen
 - [JavaScript Fuctions](code-102/class07.md)
 - [JavaScript Operators and Loops](code-102/class08.md)
 
-### Code 201
+## Code 201
+
+Code 201 serves as an intermediate course that delves deeper into front end development.
+
+### Table of Contents
 
 - [Class 1](code-201/01.md)
 - [Class 2](code-201/02.md)
@@ -66,10 +56,10 @@ Code 401 allows specialization in one aspect or language in software developemen
 - [Class 14](code-201/14.md)
 - [Class 15](code-201/15.md)
 
-### Code 301
+## Code 301
 
-Page not yet created
+Code 301 is an advanced course that hones front end developement skills and introduces back end developement.
 
-### Code 401
+## Code 401
 
-Page not yet created
+Code 401 allows specialization in one aspect or language in software developement.
