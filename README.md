@@ -41,7 +41,7 @@ Code 201 serves as an intermediate course that delves deeper into front end deve
 ### Table of Contents
 
 - [Class 1](code-201/01.md)
-- [Class 2](code-201/02.md)
+- [HTML, CSS, and JS Basics](code-201/02.md)
 - [Class 3](code-201/03.md)
 - [Class 4](code-201/04.md)
 - [Class 5](code-201/05.md)
