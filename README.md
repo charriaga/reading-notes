@@ -45,7 +45,7 @@ Code 201 serves as an intermediate course that delves deeper into front end deve
 - [HTML Lists, JS Control Flow, and CSS Box Model](code-201/03.md)
 - [HTML Links, CSS Layout, and JS Functions](code-201/04.md)
 - [Images, Color, and Text](code-201/05.md)
-- [Class 6](code-201/06.md)
+- [Objects and the DOM](code-201/06.md)
 - [Class 7](code-201/07.md)
 - [Class 8](code-201/08.md)
 - [Class 9](code-201/09.md)
