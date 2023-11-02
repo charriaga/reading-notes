@@ -48,7 +48,7 @@ Code 201 serves as an intermediate course that delves deeper into front end deve
 - [Objects and the DOM](code-201/06.md)
 - [Class 7](code-201/07.md)
 - [CSS Flexbox](code-201/08.md)
-- [Class 9](code-201/09.md)
+- [Forms and JS Events](code-201/09.md)
 - [Class 10](code-201/10.md)
 - [Class 11](code-201/11.md)
 - [Class 12](code-201/12.md)
