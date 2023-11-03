@@ -36,7 +36,7 @@ Topics covered are Markdown, the command line, Git, HTML, CSS, and JavaScript.
 
 ## Code 201
 
-Code 201 serves as an intermediate course that delves deeper into front end development.
+Code 201 serves as an foundations course that delves deeper into front end development.
 
 ### Table of Contents
 
@@ -49,7 +49,7 @@ Code 201 serves as an intermediate course that delves deeper into front end deve
 - [Class 7](code-201/07.md)
 - [CSS Flexbox](code-201/08.md)
 - [Forms and JS Events](code-201/09.md)
-- [Class 10](code-201/10.md)
+- [Debugging](code-201/10.md)
 - [Class 11](code-201/11.md)
 - [Class 12](code-201/12.md)
 - [Class 13](code-201/13.md)
@@ -58,7 +58,7 @@ Code 201 serves as an intermediate course that delves deeper into front end deve
 
 ## Code 301
 
-Code 301 is an advanced course that hones front end developement skills and introduces back end developement.
+Code 301 is an intermediate course that hones front end developement skills and introduces back end developement.
 
 ## Code 401
 
