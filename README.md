@@ -18,7 +18,7 @@ This web page contains all my notes on the courses I take at Code Fellows. Throu
 
 ## Code 102
 
-Code 102 conver the basics and serves as an introduction to software developement. 
+Code 102 conver the basics and serves as an introduction to software developement.
 
 Topics covered are Markdown, the command line, Git, HTML, CSS, and JavaScript.
 
@@ -50,7 +50,7 @@ Code 201 serves as an foundations course that delves deeper into front end devel
 - [CSS Flexbox](code-201/08.md)
 - [Forms and JS Events](code-201/09.md)
 - [Debugging](code-201/10.md)
-- [Class 11](code-201/11.md)
+- [Audio, Video, and Images](code-201/11.md)
 - [Class 12](code-201/12.md)
 - [Class 13](code-201/13.md)
 - [Class 14](code-201/14.md)
