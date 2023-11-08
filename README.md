@@ -52,7 +52,7 @@ Code 201 serves as an foundations course that delves deeper into front end devel
 - [Debugging](code-201/10.md)
 - [Audio, Video, and Images](code-201/11.md)
 - [Canvas and Charts](code-201/12.md)
-- [Class 13](code-201/13.md)
+- [Local Storage](code-201/13.md)
 - [Class 14](code-201/14.md)
 - [Class 15](code-201/15.md)
 
