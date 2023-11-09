@@ -69,3 +69,9 @@ Code 401 allows specialization in one aspect or language in software developemen
 The utilization of prompts to create a desired output for LLMs.
 
 Learn more [here](code-201/prompt-engineering.md).
+
+## Psychological Safety
+
+A measure used to build the perfect team.
+
+Learn more [here](/code-201/psychological-safety.md).
