@@ -61,6 +61,7 @@ Code 201 serves as an foundations course that delves deeper into front end devel
 Code 301 is an intermediate course that hones front end developement skills and introduces back end developement.
 
 - [State and Props](code-301/02.md)
+- [Passing Functions as Props](code-301/03.md)
 
 ## Code 401
 
