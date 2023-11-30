@@ -62,6 +62,7 @@ Code 301 is an intermediate course that hones front end developement skills and 
 
 - [State and Props](code-301/02.md)
 - [Passing Functions as Props](code-301/03.md)
+- [forms in React](code-301/4.md)
 
 ## Code 401
 
