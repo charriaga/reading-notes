@@ -65,6 +65,7 @@ Code 301 is an intermediate course that hones front end developement skills and 
 - [forms in React](code-301/4.md)
 - [Node.js](code-301/7.md)
 - [APIBest Practices](code-301/8.md)
+- [Functional Programming and Modules](code-301/9.md)
 
 ## Code 401
 
